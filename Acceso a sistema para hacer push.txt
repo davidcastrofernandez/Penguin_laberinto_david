@@ -5,7 +5,7 @@ git push     alzar a la plataforma (para empujar el codigo del local al remoto)
 git pull     bajar de la plataforma(para estirar el codigo del remoto al local)
 
 comandos para navegar terminal
-ls o dir  (para ver las capetas/archivos existentes)
+ls(linux) o dir(windos)  (para ver las capetas/archivos existentes)
 cd nombre_de_archivo  (para entrar en la carpeta/archivo)
 cd . .  (para retroceder de/la carpeta/archivo)
 
